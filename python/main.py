@@ -126,7 +126,7 @@ def qtd_txt(qtd, um, varios):
 
 
 def menu():
-    separa("Bueiro Alerta")
+    separa("Urbanflow")
     print("Vê se o bueiro vai entupir e chama a limpeza.")
     print()
     for cod, nome in opcoes:
@@ -469,7 +469,7 @@ def remove(bueiros, leituras, notifs):
 
 def sobre():
     separa("Sobre")
-    print("Serve pra morador de área que alaga em São Paulo")
+    print("Urbanflow. Serve pra morador de área que alaga em São Paulo")
     print("e pra equipe de limpeza da prefeitura.")
     print("O bueiro entope e a enchente chega antes da limpeza.")
     print("Aqui a leitura vira decisão e vira notificação.")

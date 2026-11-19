@@ -1,26 +1,8 @@
-# Bueiro Alerta
+# Urbanflow
 
 Parte de Python do trabalho. O problema é enchente em São Paulo: o bueiro entope e a limpeza chega tarde. O programa olha a leitura e, se estiver perto de entupir, grava um chamado pra prefeitura.
 
-## Ficha
-
-Nome: Bueiro Alerta
-
-Cidade: São Paulo. Exemplos em Aricanduva, Ipiranga, Mooca, Sapopemba e Tatuapé.
-
-Cidadão: quem mora onde alaga, e a equipe de limpeza da prefeitura.
-
-Problema: o bueiro junta resíduo e água, e a rua alaga antes de alguém limpar.
-
-Como funciona: entra o nível da água, o resíduo e a chuva. Entupimento iminente ou crítico vira notificação.
-
-O que esta parte faz: valida o que foi digitado, decide a situação e acompanha o chamado até a limpeza.
-
-Link do repositório: a gente coloca na entrega.
-
-Indicador: limpezas concluídas que foram chamadas ainda no entupimento, antes do nível crítico.
-
-ODS: 11, 13 e 3.
+Observação: o login na plataforma da FIAP está bloqueado, então não deu para saber o que está dentro do escopo ensinado na disciplina e o que não está.
 
 O sensor é a outra parte do trabalho. Aqui a notificação fica salva no JSON. Não manda mensagem de verdade pra prefeitura.
 
