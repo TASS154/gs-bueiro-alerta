@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "bueiro_id": 2,
+    "nivel_agua": 64,
+    "residuos": "alto",
+    "chuva": "fraca",
+    "data": "2026-11-18",
+    "situacao": "entupimento"
+  },
+  {
+    "id": 2,
+    "bueiro_id": 2,
+    "nivel_agua": 18,
+    "residuos": "baixo",
+    "chuva": "sem",
+    "data": "2026-11-19",
+    "situacao": "livre"
+  },
+  {
+    "id": 3,
+    "bueiro_id": 1,
+    "nivel_agua": 52,
+    "residuos": "alto",
+    "chuva": "fraca",
+    "data": "2026-11-19",
+    "situacao": "entupimento"
+  },
+  {
+    "id": 4,
+    "bueiro_id": 3,
+    "nivel_agua": 33,
+    "residuos": "medio",
+    "chuva": "fraca",
+    "data": "2026-11-19",
+    "situacao": "atencao"
+  },
+  {
+    "id": 5,
+    "bueiro_id": 4,
+    "nivel_agua": 88,
+    "residuos": "alto",
+    "chuva": "forte",
+    "data": "2026-11-19",
+    "situacao": "critico"
+  },
+  {
+    "id": 6,
+    "bueiro_id": 5,
+    "nivel_agua": 30,
+    "residuos": "baixo",
+    "chuva": "forte",
+    "data": "2026-11-19",
+    "situacao": "atencao"
+  }
+]

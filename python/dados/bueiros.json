@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "codigo": "ARI-014",
+    "logradouro": "Avenida Aricanduva",
+    "bairro": "Aricanduva",
+    "referencia": "Margem do córrego Aricanduva"
+  },
+  {
+    "id": 2,
+    "codigo": "EST-007",
+    "logradouro": "Avenida do Estado",
+    "bairro": "Ipiranga",
+    "referencia": "Perto do Tamanduateí"
+  },
+  {
+    "id": 3,
+    "codigo": "MOO-021",
+    "logradouro": "Rua da Mooca",
+    "bairro": "Mooca",
+    "referencia": "Trecho da rua da Mooca"
+  },
+  {
+    "id": 4,
+    "codigo": "SAP-103",
+    "logradouro": "Avenida Sapopemba",
+    "bairro": "Sapopemba",
+    "referencia": "Baixada da Sapopemba"
+  },
+  {
+    "id": 5,
+    "codigo": "RAD-055",
+    "logradouro": "Avenida Radial Leste",
+    "bairro": "Tatuapé",
+    "referencia": "Embaixo da Radial Leste"
+  }
+]

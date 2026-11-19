@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "bueiro_id": 2,
+    "leitura_id": 1,
+    "situacao": "entupimento",
+    "prioridade": "alta",
+    "status": "concluida",
+    "data": "2026-11-18",
+    "nivel_depois": 15,
+    "resumo": "Limpeza feita na Avenida do Estado antes de alagar."
+  },
+  {
+    "id": 2,
+    "bueiro_id": 1,
+    "leitura_id": 3,
+    "situacao": "entupimento",
+    "prioridade": "alta",
+    "status": "aberta",
+    "data": "2026-11-19",
+    "nivel_depois": null,
+    "resumo": "ARI-014 prestes a entupir. Manda a equipe de limpeza."
+  },
+  {
+    "id": 3,
+    "bueiro_id": 4,
+    "leitura_id": 5,
+    "situacao": "critico",
+    "prioridade": "urgente",
+    "status": "a_caminho",
+    "data": "2026-11-19",
+    "nivel_depois": null,
+    "resumo": "SAP-103 crítico. Limpeza urgente na Sapopemba."
+  }
+]
